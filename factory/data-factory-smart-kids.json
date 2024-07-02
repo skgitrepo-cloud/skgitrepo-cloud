@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-smart-kids",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19583b9d-5111-4ba1-b31c-0b9ce7b9c8d1",
+		"tenantId": "37597592-bd2f-47d8-a5fb-53f7a45edb62"
+	}
+}
